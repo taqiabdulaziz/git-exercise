@@ -1,1 +1,1 @@
-const str = 'wow'
+const str = 'wo'
